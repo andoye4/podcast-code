@@ -1,0 +1,10 @@
+h1{
+    color: purple;
+}
+ol { display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+li{ width: 50%;
+}
+    
